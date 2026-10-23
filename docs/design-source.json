@@ -1,0 +1,1731 @@
+[
+  {
+    "id": "0:2",
+    "name": "welcome",
+    "width": 375,
+    "height": 812,
+    "text": []
+  },
+  {
+    "id": "0:231",
+    "name": "home",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Recent transactions",
+      "More",
+      "Receive money",
+      "From: Harry Jame",
+      "+ $1,000",
+      "09/10",
+      "Pay electric bill",
+      "From: USD wallet ",
+      "09/10",
+      "- $100",
+      "Booking flight",
+      "From: Japan wallet",
+      "- 3,400 JPY",
+      "09/10",
+      "money",
+      "EXCHANGE",
+      "TRANSFER",
+      "money",
+      "money",
+      "RECHARGE ",
+      "Functions",
+      "Cvv no.",
+      "334",
+      "Wallet no.",
+      "5678",
+      "9012",
+      "3273",
+      "1234",
+      "$12,000",
+      "USD wallet",
+      "Hi, Lee !",
+      "wellcome back",
+      "Type something",
+      "3"
+    ]
+  },
+  {
+    "id": "0:374",
+    "name": "home new 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "money",
+      "EXCHANGE",
+      "TRANSFER",
+      "money",
+      "money",
+      "RECHARGE ",
+      "Functions",
+      "Cvv no.",
+      "334",
+      "Wallet no.",
+      "5678",
+      "9012",
+      "3273",
+      "1234",
+      "$12,000",
+      "USD wallet",
+      "Hi, Lee !",
+      "wellcome back",
+      "Recent transactions",
+      "No transactions",
+      "Let’s get started",
+      "Type something"
+    ]
+  },
+  {
+    "id": "0:502",
+    "name": "home new",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "money",
+      "EXCHANGE",
+      "TRANSFER",
+      "money",
+      "money",
+      "RECHARGE ",
+      "Functions",
+      "Creat wallet",
+      "Hi, Lee !",
+      "wellcome back",
+      "Recent transactions",
+      "No transactions",
+      "Let’s get started",
+      "Type something"
+    ]
+  },
+  {
+    "id": "0:624",
+    "name": "workthrough1",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Get started",
+      "Get started",
+      "Quick\nand easy",
+      "Just visit any of the growing number of outlets who accept money and make your purchase within second"
+    ]
+  },
+  {
+    "id": "0:747",
+    "name": "workthrough2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Investerment\neffectives",
+      "We constantly updated currency market, exchange rates,...",
+      "Get started"
+    ]
+  },
+  {
+    "id": "0:889",
+    "name": "workthrough3",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Security",
+      "\nYour money is protected by your login credentials",
+      "Get started"
+    ]
+  },
+  {
+    "id": "0:1045",
+    "name": "link account",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "International card",
+      "Visa/ Mastercard/…",
+      "More",
+      "Bank account",
+      "Link\naccount",
+      "ID code has been sent Please check your phone number",
+      "Link card latter"
+    ]
+  },
+  {
+    "id": "0:1253",
+    "name": "link visa",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "CVV number printed on your card",
+      "Card number",
+      "Full name",
+      "00",
+      "0000",
+      "Expiry",
+      "CVV",
+      "Link card",
+      "Link\ncard"
+    ]
+  },
+  {
+    "id": "0:1362",
+    "name": "bank well fargo",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Card number",
+      "Card holder",
+      "Identity Card / Passport",
+      "Wells Fargo\nbank",
+      "Please enter the accurate information that you have registered Wells with Fargo bank",
+      "Continue"
+    ]
+  },
+  {
+    "id": "0:1408",
+    "name": "wells fargo recharge 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "USD wallet",
+      "Number",
+      "$ 10",
+      "$ 200",
+      "$ 100",
+      "Choose wallet",
+      "Amount",
+      "Continue",
+      "Recharge\nmoney",
+      "Source: Wells Fargo"
+    ]
+  },
+  {
+    "id": "0:1459",
+    "name": "well fargo recharge",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Amount",
+      "Recharge\nmoney",
+      "Choose wallet",
+      "Source: Wells Fargo",
+      "Recharge",
+      "Continue",
+      "No wallet",
+      "Create wallet"
+    ]
+  },
+  {
+    "id": "0:1509",
+    "name": "well fargo recharge copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Amount",
+      "Recharge\nmoney",
+      "Choose wallet",
+      "Source: Wells Fargo",
+      "Recharge",
+      "Continue",
+      "No wallet",
+      "Create wallet",
+      "Bank of America",
+      "Wells Fargo"
+    ]
+  },
+  {
+    "id": "0:1573",
+    "name": "sucessful bank",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Home",
+      "Sucessful link",
+      "Wells Fargo bank has been connected already",
+      "Thank for using our services !",
+      "Your happiness is our pleasure"
+    ]
+  },
+  {
+    "id": "0:1671",
+    "name": "sucessful transactions",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "$100 has been transferred to USD wallet",
+      "Sucessful\ntransaction",
+      "Your happiness is our pleasure",
+      "Home"
+    ]
+  },
+  {
+    "id": "0:1859",
+    "name": "login",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Forgot?",
+      "Phone",
+      "Password",
+      "Login",
+      "touch sensor insteed",
+      "Don’t have  an accout? ",
+      "Sign up",
+      "Login"
+    ]
+  },
+  {
+    "id": "0:1925",
+    "name": "login copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Forgot?",
+      "03742939888",
+      "*************",
+      "Login",
+      "touch sensor insteed",
+      "Don’t have  an accout? ",
+      "Sign up",
+      "Login"
+    ]
+  },
+  {
+    "id": "0:1992",
+    "name": "signup",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Confirm password",
+      "Password",
+      "Full name",
+      "Create",
+      "US +1",
+      "Sign up",
+      "By tapping on 'CREATE' , you agree to the Terms of Use and Privacy Policy"
+    ]
+  },
+  {
+    "id": "0:2054",
+    "name": "forgot pass1",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Phone",
+      "Continue",
+      "Forgot\npassword",
+      "Enter the phone number that you use to sign up  your account",
+      "Resend"
+    ]
+  },
+  {
+    "id": "0:2088",
+    "name": "forgot pass2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Identify code",
+      "Forgot\npassword",
+      "If you did not receive an identify code. Enter ' Resend ‘. Check  your phone no. +028473646",
+      "Resend",
+      "Continue"
+    ]
+  },
+  {
+    "id": "0:2122",
+    "name": "forgot pass3",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Continue",
+      "F2368",
+      "Forgot\npassword",
+      "Please check indentify code has been sent to your phone number +028473646",
+      "Resend"
+    ]
+  },
+  {
+    "id": "0:2155",
+    "name": "forgot pass4",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "New password",
+      "Confirm new password",
+      "Forgot\npassword",
+      "Done"
+    ]
+  },
+  {
+    "id": "0:2201",
+    "name": "qr code",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "QR code",
+      "Please scan code for payment",
+      "Code",
+      "Scan"
+    ]
+  },
+  {
+    "id": "0:2540",
+    "name": "qr code copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Scanning",
+      "QR code",
+      "Put qr code in the middle of screen",
+      "Code",
+      "Scan"
+    ]
+  },
+  {
+    "id": "0:2892",
+    "name": "receipt",
+    "width": 375,
+    "height": 880,
+    "text": [
+      "$20",
+      "$20",
+      "VAT",
+      "Snack",
+      "Hamburger",
+      "List of item",
+      "John",
+      "#123494",
+      "Circle K",
+      "Name of seller",
+      "Receipt code",
+      "Store",
+      "$40",
+      "TOTAL",
+      "Pay",
+      "12:00 11/11/2018",
+      "$920",
+      "USD wallet",
+      "Surplus",
+      "Source",
+      "Receipt"
+    ]
+  },
+  {
+    "id": "0:2957",
+    "name": "vertify",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Done",
+      "ID code has been sent Please check your phone number",
+      "Vertify",
+      "Resend",
+      "F2368"
+    ]
+  },
+  {
+    "id": "0:2990",
+    "name": "profile",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Do you want vertify your account ?",
+      "Your electric bill will be paid automatically tomorrow",
+      "Levi has tranferred $20 to your USD wallet ",
+      "Change ",
+      " Kirkland, Washington",
+      "Lee Johnson",
+      "Log out",
+      "Profile"
+    ]
+  },
+  {
+    "id": "0:3032",
+    "name": "payment",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Detail",
+      "Booking flight to receive 20% discount",
+      "Services",
+      "Detail",
+      "3 bills has not been paid",
+      "Bills",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Payment"
+    ]
+  },
+  {
+    "id": "0:3392",
+    "name": "Billls",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "TOTAL",
+      "FEE",
+      "$2",
+      "$112",
+      "Auto pay on 15th Jul",
+      "Internet",
+      "- $100",
+      "Unpaid",
+      "PAY",
+      "Auto pay on 15th Jul",
+      "TV",
+      "Unpaid",
+      "- $112",
+      "PAY",
+      "Pay all",
+      "Bills",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3449",
+    "name": "services",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Services",
+      "Search",
+      "Transport",
+      "Home",
+      "Shopping",
+      "Entertainment",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3537",
+    "name": "transfer function",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "To wallet",
+      "Lorem ipsum",
+      "Lorem ipsum",
+      "To bank",
+      "Transfer\nmoney",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3591",
+    "name": "transfer to bank",
+    "width": 375,
+    "height": 950,
+    "text": [
+      "Information",
+      "Bank",
+      "Branch",
+      "Choose wallet",
+      "USD wallet",
+      "Transfer\nto bank",
+      "Account number",
+      "Account holder",
+      "Content",
+      "Continue",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3648",
+    "name": "transfer to bank copy",
+    "width": 375,
+    "height": 1000,
+    "text": [
+      "Information",
+      "AOF Bank",
+      "Nam Thang Long",
+      "Choose wallet",
+      "USD wallet",
+      "Transfer\nto bank",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Swift code: 237482",
+      "AB27384003721",
+      "Harry James",
+      "Happy birthday!",
+      "Continue"
+    ]
+  },
+  {
+    "id": "0:3706",
+    "name": "transfer to wallet",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Received wallet code",
+      "Number",
+      "Content",
+      "Infor",
+      "Harry",
+      "James",
+      "Julia",
+      "Find friend",
+      "Transer to",
+      "USD wallet",
+      "Choose wallet",
+      "Continue",
+      "Transfer\nto wallet",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3782",
+    "name": "transfer to wallet2",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "123 233 112 332",
+      "$100",
+      "Happy birthday!",
+      "Infor",
+      "Harry",
+      "James",
+      "Julia",
+      "Find friend",
+      "Transer to",
+      "USD wallet",
+      "Choose wallet",
+      "Continue",
+      "Transfer\nto wallet",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:3858",
+    "name": "transfer to wallet 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "#28193032",
+      "$502",
+      "TOTAL",
+      "$2",
+      "Happy  birthday!",
+      "S500",
+      "Harry ",
+      "USD wallet",
+      "Fee",
+      "Content",
+      "Number",
+      "To",
+      "From",
+      "9:00 PM 12/24/2018",
+      "RECEIPT",
+      "Confirm",
+      "Transfer\nto wallet"
+    ]
+  },
+  {
+    "id": "0:3908",
+    "name": "Exchange money 1",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Exchange\nmoney",
+      "Convert",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "USD wallet",
+      "Exchange from",
+      "JPY wallet",
+      "To wallet",
+      "Amount",
+      "Amount",
+      "USD",
+      "JPY",
+      "Exchange currency"
+    ]
+  },
+  {
+    "id": "0:3973",
+    "name": "Exchange money wallet",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Exchange\nmoney",
+      "Convert",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "USD wallet",
+      "Exchange from",
+      "JPY wallet",
+      "To wallet",
+      "Amount",
+      "Amount",
+      "USD",
+      "JPY",
+      "Exchange currency",
+      "USD wallet",
+      "JPY wallet",
+      "EURO wallet"
+    ]
+  },
+  {
+    "id": "0:4049",
+    "name": "Exchange money 2",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Exchange\nmoney",
+      "Convert",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "USD wallet",
+      "Exchange from",
+      "JPY wallet",
+      "To wallet",
+      "10",
+      "1088,4961.00",
+      "USD",
+      "JPY",
+      "Exchange currency",
+      "Exchange rate 1 USD= 108,84961.00 JPY"
+    ]
+  },
+  {
+    "id": "0:4115",
+    "name": "Exchange money 3",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Amount",
+      "Amount",
+      "USD",
+      "JPY",
+      "Exchange currency",
+      "Exchange\nmoney",
+      "USD wallet",
+      "Choose wallet",
+      "Convert",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "You haven’t JPY wallet, create now",
+      "Create ",
+      "Cance"
+    ]
+  },
+  {
+    "id": "0:4179",
+    "name": "bitcoin price",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Bitcoin\nprice",
+      "Update every hour constantly",
+      "Graph",
+      "Market",
+      "1 min ago",
+      "Bitfinex",
+      "BTC/USD",
+      "$4072,3",
+      "1 min ago",
+      "Bitfinex",
+      "BTC/USD",
+      "$4072,3",
+      "Sell",
+      "Buy",
+      "3 min ago",
+      "Binance",
+      "BTC/USD",
+      "$9072",
+      "Price",
+      "Pairs",
+      "Trading floor",
+      "Bitcoin market",
+      "Live rates"
+    ]
+  },
+  {
+    "id": "0:4337",
+    "name": "Live rate",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "33.0",
+      "113.86",
+      "1.1274",
+      "23,312.5",
+      "23,382.5",
+      "32.9",
+      "113.85",
+      "1.1273",
+      "USD/THB",
+      "USD/JPY",
+      "EUR/USD",
+      "USD/VND",
+      "Ask",
+      "Bid",
+      "Major pairs",
+      "JPY",
+      "AUD",
+      "CHF",
+      "CAD",
+      "- 0.10%",
+      "- 0.75%",
+      "0.10%",
+      "0.75%",
+      "Live rates",
+      "Update every hour constantly",
+      "Live currency rates",
+      "Live central bank rates",
+      "Bitcoin market",
+      "Live rates"
+    ]
+  },
+  {
+    "id": "0:4439",
+    "name": "Booking1",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Bangkok",
+      "Barcenola",
+      "From",
+      "To",
+      "Booking\nflight",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Suggested place",
+      "Next stept"
+    ]
+  },
+  {
+    "id": "0:4515",
+    "name": "booking3",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Bangkok",
+      "Barcenola",
+      "To",
+      "Booking\nflight",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Suggested place",
+      "CDG",
+      "Paris,",
+      "Charles- de- Gaulle",
+      "Next stept"
+    ]
+  },
+  {
+    "id": "0:4594",
+    "name": "booking 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "To",
+      "Booking\nflight",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Next stept",
+      "Bangkok",
+      "Barcenola",
+      "Suggested place",
+      "Paris",
+      "CDG",
+      "Paris,",
+      "Paris,",
+      "Paris,",
+      "ORY",
+      "BVA",
+      "Charles- de- Gaulle",
+      "Paris orly",
+      "Beauvais"
+    ]
+  },
+  {
+    "id": "0:4683",
+    "name": "Booking 5",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "One way ",
+      "Two ways ",
+      "05/1/2019",
+      "Traveller",
+      "Class",
+      "Continue",
+      "Booking\nflight",
+      "Paris",
+      "CDG",
+      "Charles-de-Gaulle",
+      "Bangkok",
+      "BKK",
+      "Sunavarbmoni",
+      "Step 1: Basic information"
+    ]
+  },
+  {
+    "id": "0:4757",
+    "name": "Booking 6",
+    "width": 375,
+    "height": 940,
+    "text": [
+      "Luggage (kg)",
+      "One way ",
+      "USD wallet",
+      "Last name",
+      "Middle and First name",
+      "Continue",
+      "Step 2: Necessary information",
+      "Booking\nflight",
+      "Paris",
+      "CDG",
+      "Charles-de-Gaulle",
+      "Bangkok",
+      "BKK",
+      "Sunavarbmoni"
+    ]
+  },
+  {
+    "id": "0:4815",
+    "name": "receipt flight",
+    "width": 375,
+    "height": 1200,
+    "text": [
+      "First class",
+      "Passenger",
+      "Passenger",
+      "Boarding time",
+      "Seat",
+      "Harry James",
+      "10",
+      "10:00 AM",
+      "20",
+      "Gates",
+      "H, K, I",
+      "Check in",
+      "OKL018",
+      "Flight",
+      "Bangkok",
+      "BKK",
+      "To",
+      "Paris",
+      "CDG",
+      "From",
+      "Date: 12/20/2019",
+      "$112",
+      "$2",
+      "$10",
+      "$100",
+      "Total",
+      "Fee",
+      "Luggage",
+      "Price",
+      "Continue",
+      "Booking\nflight",
+      "One way ",
+      "Step 3: Confirm"
+    ]
+  },
+  {
+    "id": "0:4968",
+    "name": "friend",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "CREATE NEW CONTACT",
+      "Hermione Granger",
+      "BN123848593",
+      "Albus Dumbledore",
+      "AB123848593",
+      "Ron Weasley",
+      "BM123848593",
+      "Gellert Grindelwald",
+      "AT123848593",
+      "Friend",
+      "Frequently contacted",
+      "Other contacted"
+    ]
+  },
+  {
+    "id": "0:5042",
+    "name": "friend2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Save",
+      "Change",
+      "Harry Jame",
+      "Wallet no.",
+      "5678",
+      "9012",
+      "3273",
+      "1234",
+      "+530 627 32423",
+      "Harry Jame",
+      "Phone",
+      "Name",
+      "Friend",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:5089",
+    "name": "notificatrtions",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Get in ",
+      "StarBucks reduce 50%",
+      "10min ago",
+      "Get in ",
+      "Rolex reduce 10% in Black Friday",
+      "Today McDonald promote 20%",
+      "2min ago",
+      "Get in ",
+      "Notifications",
+      "3 days left"
+    ]
+  },
+  {
+    "id": "0:5224",
+    "name": "incentive1",
+    "width": 375,
+    "height": 860,
+    "text": [
+      "Incentive",
+      "3",
+      "Enter your promo code",
+      "Join",
+      "Link bank card to receive $10 in your wallet",
+      "Spex",
+      "Special preference",
+      "Preference from partner",
+      "20% OFF",
+      "20% OFF",
+      "12/22/2018- 1/1/2019",
+      "McDonald discount 20% ",
+      "Get in",
+      "12/22/2018- 1/1/2019",
+      "StarBucks discount 50%",
+      "New"
+    ]
+  },
+  {
+    "id": "0:5404",
+    "name": "incentive3",
+    "width": 375,
+    "height": 860,
+    "text": [
+      "Incentive",
+      "3",
+      "Join",
+      "Link bank card to receive $10 in your wallet",
+      "Spex",
+      "Special preference",
+      "Preference from partner",
+      "20% OFF",
+      "20% OFF",
+      "12/22/2018- 1/1/2019",
+      "McDonald discount 20% ",
+      "Get in",
+      "Get in",
+      "12/22/2018- 1/1/2019",
+      "StarBucks discount 50%",
+      "F26748",
+      "This incentive code was out of date",
+      "Try again!"
+    ]
+  },
+  {
+    "id": "0:5720",
+    "name": "incentive2 ",
+    "width": 375,
+    "height": 860,
+    "text": [
+      "Incentive",
+      "3",
+      "Join",
+      "Link bank card to receive $10 in your wallet",
+      "Spex",
+      "Special preference",
+      "Preference from partner",
+      "20% OFF",
+      "20% OFF",
+      "12/22/2018- 1/1/2019",
+      "McDonald discount 20% ",
+      "Get in",
+      "Get in",
+      "12/22/2018- 1/1/2019",
+      "StarBucks discount 50%",
+      "F26748",
+      "F26748",
+      "Expired date: 1/1/2019",
+      "Discount 40% from McDonald",
+      "5 days left",
+      "Copy"
+    ]
+  },
+  {
+    "id": "0:5924",
+    "name": "incentive2  copy",
+    "width": 375,
+    "height": 860,
+    "text": [
+      "Incentive",
+      "3",
+      "Join",
+      "Link bank card to receive $10 in your wallet",
+      "Spex",
+      "Special preference",
+      "Preference from partner",
+      "20% OFF",
+      "20% OFF",
+      "12/22/2018- 1/1/2019",
+      "McDonald discount 20% ",
+      "Get in",
+      "Get in",
+      "12/22/2018- 1/1/2019",
+      "StarBucks discount 50%",
+      "F26748",
+      "F26748",
+      "Expired date: 1/1/2019",
+      "Discount 40% from McDonald",
+      "0 days left",
+      "Copy",
+      "OUT OF DATE"
+    ]
+  },
+  {
+    "id": "0:6131",
+    "name": "manage1",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "$20000",
+      "USD \nwallet",
+      "20 bitcoin",
+      "BITCOIN\nwallet",
+      "Manage\nwallet"
+    ]
+  },
+  {
+    "id": "0:6246",
+    "name": "Manage2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "INCOMES",
+      "+ $500",
+      "$1000",
+      "EXPENSES",
+      "TOTAL",
+      "- $1500",
+      "Manage\nwallet",
+      "USD wallet",
+      "02/11/2018",
+      "Graph",
+      "Statistic"
+    ]
+  },
+  {
+    "id": "0:6423",
+    "name": "setting",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Account",
+      "Manage wallet",
+      "Support",
+      "Language",
+      "English",
+      "Fast payment",
+      "Notifications",
+      "Wallet secuirity",
+      "Setting",
+      "40%",
+      "Vertify information that we can protect your account better"
+    ]
+  },
+  {
+    "id": "0:6487",
+    "name": "setting 4",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Account",
+      "Manage wallet",
+      "Manage bank link",
+      "Language",
+      "English",
+      "Fast payment",
+      "Notifications",
+      "Wallet secuirity",
+      "Setting",
+      "40%",
+      "Vertify mail",
+      "Vertify identity card"
+    ]
+  },
+  {
+    "id": "0:6558",
+    "name": "setting  3",
+    "width": 375,
+    "height": 1000,
+    "text": [
+      "Account",
+      "Manage wallet",
+      "Manage bank link",
+      "Language",
+      "English",
+      "Fast payment",
+      "Notifications",
+      "Wallet secuirity",
+      "Setting",
+      "40%",
+      "Vertify mail",
+      "Vertify phone No.",
+      "Vertify identity card",
+      "Support ?"
+    ]
+  },
+  {
+    "id": "0:6636",
+    "name": "setting 2",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Account",
+      "Manage wallet",
+      "Language",
+      "English",
+      "Fast payment",
+      "Notifications",
+      "Wallet secuirity",
+      "Setting",
+      "Edit profile",
+      "Change password",
+      "Fingerprint",
+      "Support",
+      "Wallet secuirity"
+    ]
+  },
+  {
+    "id": "0:6732",
+    "name": "receipt check",
+    "width": 375,
+    "height": 860,
+    "text": [
+      "Receipt",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "USD wallet",
+      "Choose wallet",
+      "Infor",
+      "John",
+      "Circle K",
+      "Name of seller",
+      "Store",
+      "List of item",
+      "$20",
+      "$20",
+      "VAT",
+      "Snack",
+      "$40",
+      "TOTAL",
+      "Continue"
+    ]
+  },
+  {
+    "id": "0:6780",
+    "name": "link bank",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Wells Fargo\nbank",
+      "OTP code has been sent to your phone number: 012346378 that you registered with bank",
+      "Card holder",
+      "Card number",
+      "Lee Johnson",
+      "*** *** 789 1012",
+      "Expired date   ",
+      "23/02",
+      "Check information",
+      "OTP code",
+      "1",
+      "8",
+      "Get a call",
+      "Link card"
+    ]
+  },
+  {
+    "id": "0:6832",
+    "name": "Transaction history",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Transaction\nhistory",
+      "has been cleaned for 3 hour ago",
+      "Transfer",
+      "To: USD wallet",
+      "Sucess",
+      "- $100",
+      "Transfer money",
+      "From: USD wallet",
+      "Sucess",
+      "- $10",
+      "Water bill",
+      "To: Harry ",
+      "- $100",
+      "Cash in transit",
+      "Transfer money",
+      "2:00 PM 2/10/2018",
+      "Clear",
+      "Clear all history",
+      "2"
+    ]
+  },
+  {
+    "id": "0:6899",
+    "name": "Create wallet",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Create wallet",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Choose currency",
+      "USD",
+      "Create",
+      "By tapping on 'CREATE' , you agree to the Terms of Use and Privacy Policy"
+    ]
+  },
+  {
+    "id": "0:6933",
+    "name": "transport",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Transport",
+      "Booking flight",
+      "Booking bus",
+      "Booking taxi",
+      "Booking train",
+      "Booking ship",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+    ]
+  },
+  {
+    "id": "0:7047",
+    "name": "transaction detail",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Transactions",
+      "Detail",
+      "Transaction No.",
+      "Date/ Time",
+      "To wallet",
+      "Transaction status",
+      "Amount",
+      "+ $1,000",
+      "Success",
+      "USD wallet",
+      "9:00 PM 12/09/2018",
+      "12349293200",
+      "If you have any trouble, click report issue to receive our suppport",
+      "Report issue"
+    ]
+  },
+  {
+    "id": "0:7087",
+    "name": "Account",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Account",
+      "Account",
+      "Lee Joh",
+      "Lee@gmail.com",
+      "Email",
+      "+0223129102",
+      "Phone",
+      "Kirkland, Washington D.C",
+      "Address",
+      "Save"
+    ]
+  },
+  {
+    "id": "0:7133",
+    "name": "Support",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Support",
+      "Version",
+      "Hotline",
+      "Head office",
+      "12.3.3",
+      "13749300",
+      "Washington D.C",
+      "Back"
+    ]
+  },
+  {
+    "id": "0:7167",
+    "name": "Change password",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Change\npassword",
+      "Current password",
+      "New password",
+      "Confirm new password",
+      "Save"
+    ]
+  },
+  {
+    "id": "0:7213",
+    "name": "link account",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "More",
+      "Link\naccount",
+      "ID code has been sent Please check your phone number",
+      "Bank account",
+      "International card",
+      "Visa/ Mastercard/…"
+    ]
+  },
+  {
+    "id": "0:7447",
+    "name": "Filter",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Filter",
+      "From date",
+      "12/02/2018",
+      "To date",
+      "12/02/2018",
+      "Amount of money",
+      "$10",
+      "over $10000",
+      "$100",
+      "Apply"
+    ]
+  },
+  {
+    "id": "0:7529",
+    "name": "calender",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Filter",
+      "From date",
+      "12/02/2018",
+      "To date",
+      "12/02/2018",
+      "Amount of money",
+      "$10",
+      "over $10000",
+      "$100",
+      "Apply",
+      "June",
+      "July",
+      "August",
+      "May",
+      "April",
+      "10",
+      "11",
+      "12",
+      "09",
+      "08",
+      "2018",
+      "2019",
+      "2020",
+      "2017",
+      "2017",
+      "Done"
+    ]
+  },
+  {
+    "id": "0:7632",
+    "name": "iPhone XS Copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Report\nissue",
+      "Content",
+      "Have something wrong?",
+      "Send us troubles",
+      "Choose from library",
+      "Send"
+    ]
+  },
+  {
+    "id": "0:7675",
+    "name": "Identity card",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Identity\ncard",
+      "Information",
+      "Photo of identity card",
+      "ID card number",
+      "Country",
+      "Expried",
+      "Front",
+      "Back",
+      "Send",
+      "Chose from library",
+      "Chose from library",
+      "Your personal information is secure"
+    ]
+  },
+  {
+    "id": "0:7766",
+    "name": "iPhone XS Copy 4",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Sucessful",
+      "Your report has been sent",
+      "We will review and respond qickly as soon as possible",
+      "Home"
+    ]
+  },
+  {
+    "id": "0:7907",
+    "name": "booking 4",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Booking\nflight",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Suggested flight",
+      "6:00 AM",
+      "Taking off",
+      "9:00 AM",
+      "Taking off",
+      "8:45 PM",
+      "Landing",
+      "11:45 PM",
+      "Landing",
+      "16:10:00",
+      "Total time",
+      "16:10:00",
+      "Total time",
+      "Qatar airways",
+      "THAI airways",
+      "$100,2",
+      "$120",
+      "One way "
+    ]
+  },
+  {
+    "id": "0:7963",
+    "name": "Sucessful booking",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Sucessful\ntransaction",
+      "Thank for using our services!",
+      "Your happiness is our pleasure",
+      "Back"
+    ]
+  },
+  {
+    "id": "0:8135",
+    "name": "create wallet 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "money",
+      "EXCHANGE",
+      "TRANSFER",
+      "money",
+      "money",
+      "RECHARGE ",
+      "Wallet no.",
+      "5678",
+      "9012",
+      "3273",
+      "1234",
+      "$0.00",
+      "USD wallet",
+      "Hi, Lee !",
+      "wellcome back",
+      "Functions",
+      "Recent transactions",
+      "Type something",
+      "No transactions",
+      "Let’s get started"
+    ]
+  },
+  {
+    "id": "0:8254",
+    "name": "create friend 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Friends",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Change",
+      "Harry Jame",
+      "Wallet no.",
+      "5678",
+      "9012",
+      "3273",
+      "1234",
+      "+530 627 32423",
+      "Harry Jame",
+      "Phone",
+      "Name",
+      "Delete contact"
+    ]
+  },
+  {
+    "id": "0:8305",
+    "name": "Create friend 1",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Add friend",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Name",
+      "Phone No.",
+      "Add"
+    ]
+  },
+  {
+    "id": "0:8343",
+    "name": "Create friend 1 Copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Add friend",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
+      "Lee",
+      "02334677222",
+      "Add"
+    ]
+  },
+  {
+    "id": "0:8381",
+    "name": "Sucessdul recharge",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Sucessful",
+      "$100 has been redcharge to USD wallet",
+      "Your happiness is our pleasure",
+      "Home"
+    ]
+  },
+  {
+    "id": "0:8559",
+    "name": "Sucessful payment",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Sucessful\npayment",
+      "#12333 bill has been paid",
+      "Your happiness is our pleasure",
+      "Home"
+    ]
+  },
+  {
+    "id": "0:8749",
+    "name": "Sucessful exchange",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Sucessful\ntransaction",
+      "Home",
+      "1088,4961.00    has been transfer to JPY wallet",
+      "Your happiness is our pleasure"
+    ]
+  },
+  {
+    "id": "0:8834",
+    "name": "link account 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Link\naccount",
+      "ID code has been sent Please check your phone number",
+      "National bank",
+      "Other bank",
+      "Search"
+    ]
+  },
+  {
+    "id": "0:9136",
+    "name": "link account 3",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Link\naccount",
+      "ID code has been sent Please check your phone number",
+      "Top search",
+      "BoA"
+    ]
+  },
+  {
+    "id": "0:9216",
+    "name": "fingerprint",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Fingerprint",
+      "Unlock wallet",
+      "Payment",
+      "Finger 1",
+      "Use for",
+      "Fingerprint",
+      "More"
+    ]
+  },
+  {
+    "id": "0:9265",
+    "name": "fingerprint copy 2",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Manage\nbank link",
+      "Wells Fargo",
+      "Bank of America",
+      "Bank account"
+    ]
+  },
+  {
+    "id": "0:9299",
+    "name": "fingerprint copy",
+    "width": 375,
+    "height": 812,
+    "text": [
+      "Finger 1",
+      "Finger 1",
+      "Delete"
+    ]
+  },
+  {
+    "id": "0:9328",
+    "name": "iPhone XS Copy 2",
+    "width": 375,
+    "height": 900,
+    "text": [
+      "Transfer\nto wallet",
+      "Harry ",
+      "ICBVVNX",
+      "Nam Thang Long",
+      "AB218748333",
+      "USD wallet",
+      "$502",
+      "TOTAL",
+      "Account number",
+      "Account holder",
+      "LeeJohnson",
+      "$1199",
+      "$10",
+      "Salary",
+      "Amount",
+      "Fee",
+      "Content",
+      "Branch",
+      "Swift code",
+      "To",
+      "From",
+      "#28193032",
+      "9:00 PM 12/24/2018",
+      "RECEIPT",
+      "Confirm"
+    ]
+  }
+]
